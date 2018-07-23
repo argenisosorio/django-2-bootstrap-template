@@ -25,7 +25,7 @@ $ virtualenv -p python3 my_env
 
 $ source my_env/bin/activate
 
-$ cd django-2-modules-example
+$ cd django-2-bootstrap-template
 
 $ pip install -r requirements.txt
 ```
@@ -33,7 +33,7 @@ $ pip install -r requirements.txt
 
 ## Run project
 ```
-$ cd django-2-modules-example
+$ cd django-2-bootstrap-template
 
 $ python manage.py migrate
 
