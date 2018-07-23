@@ -39,3 +39,8 @@ $ python manage.py migrate
 
 $ python manage.py runserver
 ```
+
+<br />
+
+## Capture
+![capture-1.png](capture-1.png "capture-1.png")
