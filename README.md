@@ -1,4 +1,4 @@
-# Django 2 Bootstrap template
+# A Bootstrap 4 template in a Django 2 project
 <br />
 
 ## Requirements
